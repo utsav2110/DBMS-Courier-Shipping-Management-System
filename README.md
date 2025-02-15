@@ -5,6 +5,24 @@ courier  shipping  process,  including  customer  information,  courier  details
 management,  employee  details,  and  customer  feedback.  The  database is designed 
 using PostgreSQL and will support efficient information storage and retrieval.
 
+![Intro](images/intro.png)
+
+## ER Diagram
+![ER](images/ER_Dia.png)
+
+## Relational Diagram
+![Relational](images/Relational_Dia.png)
+
+## Key Feature
+![Key Feature](images/Special_Feature.png)
+
+## Important Queries
+![q1](images/q1.png)
+![q2](images/q2.png)
+![q3](images/q3.png)
+![q4](images/q4.png)
+![q5](images/q5.png)
+
 ## 📢 View the Presentation  
 
 Click the link below to view the PowerPoint presentation:  
